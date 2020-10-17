@@ -101,7 +101,7 @@ function numeroMasGrande(numeros) {
       nummayor=numeros[i];
     }
   }
-  return nummayor;
+  return nummayor;d
 }
 
 function multiplicarArgumentos() {
