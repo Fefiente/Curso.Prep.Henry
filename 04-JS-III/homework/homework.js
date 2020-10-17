@@ -10,7 +10,7 @@ function devolverUltimoElemento(array) {
   // Devuelve el último elemento de un array
   // Tu código:
   return array[array.length -1];
-} 
+}
 
 function obtenerLargoDelArray(array) {
   // Devuelve el largo de un array
@@ -109,7 +109,7 @@ function multiplicarArgumentos() {
   // Si no se pasan argumentos devuelve 0
   // Si se pasa un argumento, simplemente devuélvelo
   // Tu código:
-  
+
 }
 
 // No modificar nada debajo de esta línea
